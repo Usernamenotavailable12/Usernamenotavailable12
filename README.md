@@ -6,6 +6,8 @@
   <a href="mailto:gdzneladze@samsarageorgia.com">📧 gdzneladze@samsarageorgia.com</a> | 
   <a href="https://ng-guguli.netlify.app">🌐 Ng Guguli</a>
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
 
 ---
 
