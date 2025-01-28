@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHtzExAl9eNfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734187643773?e=1743638400&v=beta&t=yFsjDIlzm5l-slZEfNzQqSU55PxqqC6SeDOrtYmerog)" alt="Profile Banner" width="100%" />
+
 <h1 align="center">👋 Hi, I'm Guram Dzneladze</h1>
 
 <p align="center">
@@ -14,3 +16,4 @@ const guram = {
   web: ["Angular", "Astro JS"],
   tools: ["Photoshop", "Figma", "Illustrator"],
 }
+
