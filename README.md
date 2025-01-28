@@ -38,7 +38,7 @@ const guram = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark)
 
-<img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="30%" />
+<img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="20%" />
 
 
 
