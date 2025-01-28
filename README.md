@@ -1,6 +1,10 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHtzExAl9eNfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734187643773?e=1743638400&v=beta&t=yFsjDIlzm5l-slZEfNzQqSU55PxqqC6SeDOrtYmerog" alt="Profile Banner" width="100%" />
 
-<h1 align="center">👋 Hi, I'm Guram Dzneladze</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi there! I'm Guram Dzneladze 👋
+</h1>
+
 
 <p align="center">
   <a href="mailto:gdzneladze@samsarageorgia.com">📧 gdzneladze@samsarageorgia.com</a> | 
