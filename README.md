@@ -17,9 +17,9 @@
 const guram = {
   name: ["Guram", "Guguli", "Guga"],
   markup: ["HTML", "CSS", "SCSS"],
-  web: ["Angular", "Astro JS"],
+  web: ["Angular", "Astro"],
   tools: ["Photoshop", "Figma", "Illustrator"],
-}
+};
 ```
 
 ## 🚀 My Tech Stack
