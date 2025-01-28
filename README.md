@@ -16,4 +16,6 @@ const guram = {
   web: ["Angular", "Astro JS"],
   tools: ["Photoshop", "Figma", "Illustrator"],
 }
+```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usernamenotavailable12&show_icons=true&theme=dark)
 
