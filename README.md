@@ -36,7 +36,8 @@ const guram = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark) <img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="40%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark)
+<img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="30%" />
 
 
 
