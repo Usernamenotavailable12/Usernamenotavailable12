@@ -19,5 +19,7 @@ const guram = {
 ```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usernamenotavailable12&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark)
+
 
 
