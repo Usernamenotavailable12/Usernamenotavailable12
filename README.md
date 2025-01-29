@@ -39,13 +39,9 @@ const guram = {
 ## 📊 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usernamenotavailable12&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="50%" />
+  <img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="40%" />
 </p>
