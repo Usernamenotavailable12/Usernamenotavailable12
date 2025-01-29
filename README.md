@@ -43,16 +43,9 @@ const guram = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usernamenotavailable12&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="20%" />
-
-
-
-
-
+<p align="center">
+  <img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="50%" />
+</p>
