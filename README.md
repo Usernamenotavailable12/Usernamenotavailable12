@@ -36,7 +36,19 @@ const guram = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark)
+## 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Usernamenotavailable12&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usernamenotavailable12&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenotavailable12&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 <img src="https://ng-guguli.netlify.app/assets/images/Hello-World.png" alt="Profile Banner" width="20%" />
 
