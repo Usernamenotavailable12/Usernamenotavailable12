@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:gdzneladze@samsarageorgia.com">📧 gdzneladze@samsarageorgia.com</a> | 
-  <a href="https://ng-guguli.netlify.app">🌐 Ng Guguli</a>
+
 </p>
 
 ---
