@@ -32,7 +32,7 @@ const guram = {
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Lit](https://img.shields.io/badge/Lit-green?style=for-the-badge&logo=next&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-blue?style=for-the-badge&logo=next&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-JS-blue?style=for-the-badge&logo=next&logoColor=white)
 
 ### 🔗 APIs & Data Fetching
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
