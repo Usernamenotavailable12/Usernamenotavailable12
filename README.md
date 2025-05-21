@@ -17,8 +17,8 @@
 const guram = {
   name: ["Guram", "Guguli", "Guga"],
   markup: ["HTML", "CSS", "SCSS"],
-  web: ["Angular", "Astro"],
-  tools: ["Photoshop", "Figma", "Illustrator"],
+  web: ["Astro", "Lit", "Next JS"],
+  tools: ["Photoshop", "Figma", "Illustrator", "After Effects"],
 };
 ```
 
@@ -31,6 +31,8 @@ const guram = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Lit](https://img.shields.io/badge/Lit-js)
+![Next JS](https://img.shields.io/badge/next-js)
 
 ### 🔗 APIs & Data Fetching
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
