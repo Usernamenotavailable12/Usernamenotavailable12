@@ -1,4 +1,4 @@
-<img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/06/Star-Wars-(1).jpg" alt="Profile Banner" width="100%" />
+<img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/06/Star-Wars-(1).jpg" alt="Profile Banner" width="100%" height="100px" />
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
