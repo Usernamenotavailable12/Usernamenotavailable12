@@ -1,8 +1,8 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHtzExAl9eNfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734187643773?e=1753315200&v=beta&t=XQMRcv0P90F-fGV-7FSp39qSNDF4zSsufyT2ZPqzvlk" alt="Profile Banner" width="100%" />
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQHtzExAl9eNfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734187643773?e=1753315200&v=beta&t=XQMRcv0P90F-fGV-7FSp39qSNDF4zSsufyT2ZPqzvlk](https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/06/Star-Wars-(1).jpg)" alt="Profile Banner" width="100%" />
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Hi there! I'm Guram Dzneladze
+  Hello there! I'm Guram Dzneladze
 </h1>
 
 
