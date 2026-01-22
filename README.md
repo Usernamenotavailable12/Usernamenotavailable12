@@ -17,7 +17,7 @@
 const guram = {
   name: ["Guram", "Guguli", "Guga"],
   markup: ["HTML", "CSS", "SCSS"],
-  web: ["Astro", "Lit", "Next JS"],
+  web: ["Angular", "Astro", "Lit", "Next JS", "NestJS", "Next JS", "Prisma", "Postgres"],
   tools: ["Photoshop", "Figma", "Illustrator", "After Effects"],
 };
 ```
